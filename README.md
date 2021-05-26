@@ -6,8 +6,8 @@ We will link the article as soon as it is published.
 
 ## Demonstrations with source codes
 
-* Demo in an [interactive Jupyter notebook](/Alloy Sounds - Demo.ipynb)
-* Demo in a [static HTML page](/Alloy Sounds - Demo.html)
+* Demo in an [interactive Jupyter notebook](/AlloySounds-Demo.ipynb)
+* Demo in a [static HTML page](/AlloySounds-Demo.html)
 
 ## Direct links to the blend files:
 
