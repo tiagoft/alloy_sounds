@@ -4,6 +4,17 @@ Alloy Sounds are sounds resulting from the spectral blend between other sounds. 
 
 We will link the article as soon as it is published.
 
+## Audio files related to experiments shown in the paper
+
+* Section 3.1
+** [Source 1](/sec_3_1_source1.wav)
+** [Source 2](/sec_3_1_source2.wav)
+** [Blend](/sec_3_1_blend.wav)
+* Section 3.2
+** [Source 1](/sec_3_2_source1.wav)
+** [Source 2](/sec_3_2_source2.wav)
+** [Blend](/sec_3_2_blend.wav)
+
 ## Demonstrations with source codes
 
 * Source code in [Python 3](/AlloySounds-Demo.py) to rebuild all the demos
