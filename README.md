@@ -2,7 +2,21 @@
 
 Alloy Sounds are sounds resulting from the spectral blend between other sounds. The sound blending is controlled using Probabilistic Cellular Automata.
 
-We will link the article as soon as it is published.
+To download the paper, follow [this link](https://ieeexplore.ieee.org/document/9768249)
+
+```
+@INPROCEEDINGS{9768249,
+  author={Tavares, Tiago Fernandes and Pessanha, Thales Roel P. and Nishihara, Gustavo and Avila, Guilherme Zanchetta L.},
+  booktitle={2021 24th International Conference on Digital Audio Effects (DAFx)}, 
+  title={Alloy Sounds: Non-Repeating Sound Textures with Probabilistic Cellular Automata}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={245-252},
+  keywords={Time-frequency analysis;Merging;Automata;Music;Metals;Process control;Probabilistic logic},
+  doi={10.23919/DAFx51585.2021.9768249}}
+
+```
 
 ## Audio files related to experiments shown in the paper
 
